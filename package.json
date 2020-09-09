@@ -1,0 +1,25 @@
+{
+  "name": "jsnes-browser",
+  "version": "1.0.0",
+  "description": "Repackaged JSNES including reusable React component and vanilla JavaScript module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthgoldstein/jsnes-browser.git"
+  },
+  "author": "Benjamin Goldstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darthgoldstein/jsnes-browser/issues"
+  },
+  "homepage": "https://github.com/darthgoldstein/jsnes-browser#readme",
+  "dependencies": {
+    "jsnes": "^1.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
+}
